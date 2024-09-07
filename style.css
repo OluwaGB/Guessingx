@@ -1,0 +1,20 @@
+body {
+    font-size: 15pt;
+}
+button{
+  border:1px solid dodgerblue;
+  background-color: transparent;
+  color:dodgerblue;
+  height:10%;
+  border-radius:10px;
+  border-color:none;
+  border-radius:none;
+  padding:5px;
+  font-family: verdana;
+}
+input{
+  
+  padding:5px;
+}
+
+div{margin: 10px;}
